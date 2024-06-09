@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="18.749" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Sauce Lab Logout" name="Logout from saucedemo website" time="18.517">
+<system-out><![CDATA[
+Given I log into Sauce Labs website successfully............................passed
+When I open menu list.......................................................passed
+And I click on logout option................................................passed
+Then I go to on saucedemo website...........................................passed
+]]></system-out>
+</testcase>
+</testsuite>
